@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRincon10" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNicolasAguilera9906" />
 <img src="https://komarev.com/ghpvc/?username==NicolasAguilera9906" alt="=NicolasAguilera9906" />
 
 </p>
