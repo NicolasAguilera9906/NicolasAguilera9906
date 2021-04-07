@@ -15,7 +15,7 @@
 
 <h2 align="left">Most Used Languages </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==NicolasAguilera9906)](https://github.com/NicolasAguilera9906/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAguilera9906)](https://github.com/NicolasAguilera9906/github-readme-stats) 
 
 
 
