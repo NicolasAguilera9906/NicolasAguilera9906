@@ -2,7 +2,6 @@
 <p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
 
 * 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
-* 🥊 One of my hobies is the Street WorkOut
 
 
 
