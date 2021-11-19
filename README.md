@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicolás Aguilera <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 <p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
 
-* 🔭 I'm currently doing an exchange semester at the University of Magdeburg. [Otto-von-Guericke-Universität Magdeburg](https://www.ovgu.de/) 
+* 🔭 I'm currently doing an exchange semester at the [Otto-von-Guericke-Universität Magdeburg](https://www.ovgu.de/) 
 
 
 <h2 align="left">GitHub Status </h2>
